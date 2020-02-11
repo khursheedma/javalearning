@@ -1,0 +1,3 @@
+Read Test is complete.
+
+This text file has been created to test the read operation using File I/O in Java.

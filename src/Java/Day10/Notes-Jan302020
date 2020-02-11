@@ -1,0 +1,33 @@
+Re-vision 1  : 1 hr
+-- objects and class
+-- primitive data types
+-- custom data type
+-- conditional -> if / else / switch
+-- looping -> for / for each / while / do...while
+-- break and continue
+-- Strings -> immutable
+-- Recursion vs method
+-- Array -> single and multi dimensional
+-- static 
+-- OOPS
+-- inheritance
+-- this key word
+-- super key word
+-- constructor -> 
+-- Base class
+-- sub class
+-- super key word
+-- encapsulation  (important)
+-- Getter and Setter
+-- Pass by value and pass by reference
+-- Polymorphism
+-- Overloading and overriding
+-- access modifiers
+-- packages
+-- boxing and unboxing
+
+Multi threading
+exclusive lock
+dead lock
+ThreadSafe
+String vs StringBuffer vs StringBuilder

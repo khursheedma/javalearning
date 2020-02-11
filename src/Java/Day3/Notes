@@ -1,0 +1,28 @@
+Date: Jan 21 2020
+Recursive function:  function calls by it self
+Arrays
+Strings:
+
+	String is immutable
+	
+				memory/RAM
+	str1 =  "Hello"      --> Hello
+	str2 =  "Hi"         --> Hi
+	str2 =  "abc"		 --> abc
+	str2 =  str2 + "xxx" --> abcxxx
+	str3 =  "Hello"
+	
+	there can not be more than 1 string with same value in memory
+	string can not change value, instead a new string is formed always, when edited
+		for security reason (strings are used for password etc)
+		
+		
+	StringBuilder: mutable
+	
+	Announcements:
+		5:00PM PST workshop today onwards
+		Questions will be uploaded everyday (needs to be answered everyday)
+	
+	Assignments:
+		
+		

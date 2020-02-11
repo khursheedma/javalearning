@@ -1,0 +1,51 @@
+Date : Jan 28 2020
+
+Java Collections 
+
+Collection Framework and Data Structures
+
+- List (ArrayList + LinkedList)
+- Set (HashSet + LinkedHashSet + TreeSet)
+- Map (HashMap + LinkedHashMap + TreeMap)
+- Queue + Stack
+
+Note: 
+1. Collection -> Interface in Java
+2. Collections -> Utility Class
+
+
+Why do we use collections when we have Arrays ?
+- Arrays are static in length
+- It is very difficult to add or remove items from the array
+- Not many inbuilt function
+- Collections have many inbuilt functions
+
+
+As a QA automation engineer what do you need to learn in collections
+
+-- You need to know what are the different collections available
+-- how to create each collection in Java
+-- how to add or remove items from collections
+-- how to iterate through items without removing the items in the collections
+-- when to use right collection
+
+
+List:
+-- List is a ordered collection
+-- list can contain duplicate elements
+-- list can accept NULL also
+-- maintains insertion order
+-- elements can be inserted or accesses by their position in the list
+   --- ArrayList
+   --- LinkedList
+   --- Vector (outdated - not used)
+   
+ Set :  set can not have duplicate items
+   HashSet : does not maintain order
+   LinkedHashSet : maintains insertion order
+   TreeSet:  Ascending order
+   
+  map : is interface provides key +  value pair
+  
+  Queues are collections with FIFO
+  Stack are collections with LIFO

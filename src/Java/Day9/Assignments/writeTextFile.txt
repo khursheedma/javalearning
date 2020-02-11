@@ -1,0 +1,2 @@
+This text file has been created to test write operation in Java
+Write test is complete

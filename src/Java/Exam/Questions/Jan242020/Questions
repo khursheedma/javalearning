@@ -1,0 +1,41 @@
+Consider there is a 3 Boolean variable called a, b, c. Check if at least two out of three Boolean's are true  
+Given an array prints the unique numbers and also print the number of occurrences of duplicate numbers. 
+Given a string print the reverse of the string.(Input: Java Code Output: edoC avaJ)
+Write a method that will remove given character from the String? 
+Take the input of a radius and calculate area + circumference of the circle. 
+Write a Java program to reverse a string. 
+Write a Java program to print the ascii value of a given character.
+Write a Java program to count the letters, spaces, numbers and other characters of an input string. 
+Accept an integer (x) and computes the value of x+xx+xxx+xxxx. eg: 5+55+555+5555.
+Program to print the odd numbers from 1 to 99. Prints one number per line. 
+Write a Java program to check if a string starts with a specified word Sample Data: string1 = "Hi this is a java exam Question?" Sample Output: True   
+
+Q12: Write a Java program that accepts four integers from the user and prints equal if all four are equal, and not equal otherwise. 
+Sample Output: Input first number: 98 Input second number: 73 Input third number: 35 Input fourth number: 89 Numbers are not equal! 
+
+Q13:program to find the numbers greater than the average of the numbers of a given array.  
+Expected Output: Original Array: [1, 4, 20, 7, 25, 35, 100] 
+The average of the said array is: 20.0 The numbers in the said array that are greater than the average are: 2035 100 
+
+
+Q14: program to find the numbers greater than the average of the numbers of a given array.  
+Expected Output: Original Array: [1, 4, 20, 7, 25, 35, 100] 
+The average of the said array is: 20.0 The numbers in the said array that are greater than the average are: 2035 100 
+
+Q15: program to remove duplicate characters from a given string presents in another given string. 
+Sample Output: The given string is: duplicate characters from a given string The given mask string is: given The new string is: duplicate characters from a str
+
+Q16: program to move every zero to the right side of a given array of integers. Original array: [0, 8, 4, 0, 1, 9, 6, 0] Result: [8, 4, 1, 9, 6, 0, 0, 0] 
+Q17: program to partition an given array of integers into even number first and odd number second 
+Expected OutputOriginal array: [7, 2, 4, 1, 3, 5, 6, 8, 2, 10]After partition the said array becomes: [10, 2, 4, 2, 8, 6, 5, 3, 1, 7]
+Q18: Write a Java program to find the length of last word of a given string. The string contains upper/lower-case alphabets and empty space characters ' '. 
+Sample Output:Original String: The length of first letter Length of the last word of the above string: 6 
+Q19: Write a program in Java to display the cube of the number upto given an integer. 
+Test Data Input number of terms : 4 
+Expected Output :
+Number is : 1 and cube of 1 is : 1                                             
+Number is : 2 and cube of 2 is : 8                                             
+Number is : 3 and cube of 3 is : 27                                            
+Number is : 4 and cube of 4 is : 64 
+Q20: Java program to find the index of first non-repeating character in a given string.  
+Expected Output:Index of first non-repeating character in 'additional' is: 4 

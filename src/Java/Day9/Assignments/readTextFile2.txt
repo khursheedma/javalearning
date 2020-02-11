@@ -1,0 +1,3 @@
+This text file has been created to read the file contents line by line
+and to store each word into string array.
+Test is complete.

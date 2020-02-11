@@ -1,0 +1,31 @@
+Java
+Manual Testing
+Agile
+
+
+Selenium
+WebServices
+
+Git:
+- Version control (git, revision history tracker)
+- Repository (bitbucket, github, gitlab)
+- Team collaboration 
+
+Terms:
+	init
+  	add
+  	clone
+  	commit
+  	push
+  	pull
+  	status
+  	branch
+  	
+  	
+  	git clone
+  	git add
+  	git commit
+  	git push
+  	
+  	Jenkins Setup
+  	1. java -jar jenkins.war (for generic version)
